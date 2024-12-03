@@ -1,0 +1,96 @@
+.mstheme
+{
+	separator-image: url(neoarule.gif);
+	list-image-1: url(neoabul1.gif);
+	list-image-2: url(neoabul2.gif);
+	list-image-3: url(neoabul3.gif);
+	nav-banner-image: url(neoabnr.gif);
+	navbutton-horiz-normal: url(neoahnd.gif);
+	navbutton-horiz-hovered: url(neoahnm.gif);
+	navbutton-horiz-pushed: url(neoahns.gif);
+	navbutton-vert-normal: url(neoavnd.gif);
+	navbutton-vert-hovered: url(neoavnm.gif);
+	navbutton-vert-pushed: url(neoavns.gif);
+	navbutton-home-normal: url(neoahom.gif);
+	navbutton-home-hovered: url(neoahomm.gif);
+	navbutton-home-pushed: url(neoahom.gif);
+	navbutton-next-normal: url(neoanex.gif);
+	navbutton-next-hovered: url(neoanexm.gif);
+	navbutton-next-pushed: url(neoanex.gif);
+	navbutton-prev-normal: url(neoapre.gif);
+	navbutton-prev-hovered: url(neoaprem.gif);
+	navbutton-prev-pushed: url(neoapre.gif);
+	navbutton-up-normal: url(neoaup.gif);
+	navbutton-up-hovered: url(neoaupm.gif);
+	navbutton-up-pushed: url(neoaup.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 255, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: right;
+}
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(neoabul1.gif);
+}
+ul ul
+{
+	list-style-image: url(neoabul2.gif);
+}
+ul ul ul
+{
+	list-style-image: url(neoabul3.gif);
+}

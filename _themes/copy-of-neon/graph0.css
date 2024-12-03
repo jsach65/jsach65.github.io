@@ -1,0 +1,94 @@
+.mstheme
+{
+	separator-image: url(neodrule.gif);
+	list-image-1: url(neodbul1.gif);
+	list-image-2: url(neodbul2.gif);
+	list-image-3: url(neodbul3.gif);
+	nav-banner-image: url(neodbnr.gif);
+	navbutton-horiz-normal: url(neodhnd.gif);
+	navbutton-horiz-hovered: url(neodhnd.gif);
+	navbutton-horiz-pushed: url(neodhns.gif);
+	navbutton-vert-normal: url(neodvnd.gif);
+	navbutton-vert-hovered: url(neodvnd.gif);
+	navbutton-vert-pushed: url(neodvns.gif);
+	navbutton-home-normal: url(neodhom.gif);
+	navbutton-home-hovered: url(neodhom.gif);
+	navbutton-home-pushed: url(neodhom.gif);
+	navbutton-next-normal: url(neodnex.gif);
+	navbutton-next-hovered: url(neodnex.gif);
+	navbutton-next-pushed: url(neodnex.gif);
+	navbutton-prev-normal: url(neodpre.gif);
+	navbutton-prev-hovered: url(neodpre.gif);
+	navbutton-prev-pushed: url(neodpre.gif);
+	navbutton-up-normal: url(neodup.gif);
+	navbutton-up-hovered: url(neodup.gif);
+	navbutton-up-pushed: url(neodup.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 153);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255, 255, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(neodbul1.gif);
+}
+ul ul
+{
+	list-style-image: url(neodbul2.gif);
+}
+ul ul ul
+{
+	list-style-image: url(neodbul3.gif);
+}
