@@ -1,0 +1,70 @@
+.mstheme
+{
+	nav-banner-image: url(neodbnr.gif);
+	separator-image: url(neodrule.gif);
+	list-image-1: url(neodbul1.gif);
+	list-image-2: url(neodbul2.gif);
+	list-image-3: url(neodbul3.gif);
+	navbutton-horiz-pushed: url(neodhns.gif);
+	navbutton-horiz-normal: url(neodhnd.gif);
+	navbutton-vert-pushed: url(neodvns.gif);
+	navbutton-vert-normal: url(neodvnd.gif);
+	navbutton-home-normal: url(neodhom.gif);
+	navbutton-up-normal: url(neodup.gif);
+	navbutton-prev-normal: url(neodpre.gif);
+	navbutton-next-normal: url(neodnex.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 6;
+	color: rgb(255,255,0);
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 2;
+	color: rgb(255,255,153);
+}
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 2;
+	color: rgb(0,255,255);
+}
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,153);
+}
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,153);
+}
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,153);
+}
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,153);
+}
+UL
+{
+	list-style-image:url(neodbul1.gif);
+}
+UL UL
+{
+	list-style-image:url(neodbul2.gif);
+}
+UL UL UL
+{
+	list-style-image:url(neodbul3.gif);
+}

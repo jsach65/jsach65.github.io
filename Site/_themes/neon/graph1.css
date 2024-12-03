@@ -1,0 +1,82 @@
+.mstheme
+{
+	nav-banner-image: url(neoabnr.gif);
+	separator-image: url(neoarule.gif);
+	list-image-1: url(neoabul1.gif);
+	list-image-2: url(neoabul2.gif);
+	list-image-3: url(neoabul3.gif);
+	navbutton-horiz-pushed: url(neoahns.gif);
+	navbutton-horiz-normal: url(neoahnd.gif);
+	navbutton-horiz-hovered: url(neoahnm.gif);
+	navbutton-vert-pushed: url(neoavns.gif);
+	navbutton-vert-normal: url(neoavnd.gif);
+	navbutton-vert-hovered: url(neoavnm.gif);
+	navbutton-home-normal: url(neoahom.gif);
+	navbutton-home-hovered: url(neoahomm.gif);
+	navbutton-home-pushed: url(neoahom.gif);
+	navbutton-up-normal: url(neoaup.gif);
+	navbutton-up-hovered: url(neoaupm.gif);
+	navbutton-up-pushed: url(neoaup.gif);
+	navbutton-prev-normal: url(neoapre.gif);
+	navbutton-prev-hovered: url(neoaprem.gif);
+	navbutton-prev-pushed: url(neoapre.gif);
+	navbutton-next-normal: url(neoanex.gif);
+	navbutton-next-hovered: url(neoanexm.gif);
+	navbutton-next-pushed: url(neoanex.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 6;
+	color: rgb(0,255,0);
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 2;
+	text-align: left;
+	color: rgb(255,255,0);
+}
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 2;
+	text-align: right;
+	color: rgb(255,255,0);
+}
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,153);
+}
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,153);
+}
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,153);
+}
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,153);
+}
+UL
+{
+	list-style-image:url(neoabul1.gif);
+}
+UL UL
+{
+	list-style-image:url(neoabul2.gif);
+}
+UL UL UL
+{
+	list-style-image:url(neoabul3.gif);
+}
