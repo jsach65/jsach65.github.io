@@ -1,0 +1,43 @@
+<style>
+.mstheme
+{
+	top-bar-button: url(bleglob1.gif);
+	version: 1.0;
+	navbutton-background-color:  rgb(255,255,255);
+}
+.mstheme-topbar-font
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	color: rgb(255,204,0);
+}
+body
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	background-image: url(blegtext.gif); 
+}
+
+h1
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+}
+h2
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+}
+h3
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+}
+h4
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+}
+h5
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+}
+h6
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+}
+</style>.
